@@ -15,7 +15,10 @@ Ideas/Goals of this project...
 5.) reach goals include: 3d cyclotron simulation, and 3d plotting of everything mentioned prior, and plotting the path of a ring thrown with some angular velocity into a B-field configuration that would incite perpetual rotation.   
 
 6.) Test Cases: 
+    
     Point Charge in uniform B field->>>tweaking parameters 
+    
     ring rotating in its own plane 
+    
     plotting energy to prove that the magnetic field does no work on the oject thrown in
     
